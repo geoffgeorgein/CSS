@@ -1,0 +1,36 @@
+
+body{
+    
+    margin: 0px;
+    text-align: center;
+    
+    
+}
+
+.top-container{
+    background-color: rgb(129, 243, 245);
+   
+    
+     
+    font-family:Helvetica ;
+    
+}
+
+
+h1{
+    margin:0px auto;
+    width:10%;
+    
+    font-family: 'Edu TAS Beginner', cursive;
+
+}
+
+p{
+    margin:0px auto;
+    width:10%;
+    
+    font-family: 'Roboto', sans-serif;
+}
+
+
+    
