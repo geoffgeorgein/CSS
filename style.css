@@ -18,19 +18,61 @@ body{
 
 
 h1{
-    margin:0px auto;
-    width:10%;
+    margin-top: 40px;
+    padding-top: 30px;
+    margin:0px auto 20px auto;
+    
+    font-size: 4.62rem;
+    color:  #66BFBF;
     
     font-family: 'Edu TAS Beginner', cursive;
 
 }
-
-p{
+h2{
     margin:0px auto;
-    width:10%;
+    width:30%;
+    color: #66BFBF;
     
     font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+
 }
 
+h3{
+    color:#11999E;
+    
+}
+a{
+    color:#11999E;
+}
+
+p{
+    
+    
+    font-family: 'Roboto', sans-serif;
+    
+    size: 2.5rem;
+}
+
+.skill-row{
+
+    width:50%;
+    margin:100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.devimg1{
+
+    float:left;
+    margin-right: 30PX;
+}
+
+.devimg2{
+
+    float:left;
+    margin-right: 30PX;
+}
 
     
