@@ -20,7 +20,13 @@ body{
 hr{
 
     width:5%;
-    border-top:2px dotted #a5b2b2;
+    border-top:5px dotted #a5b2b2;
+    margin:70px auto;
+}
+p{
+    width:40%;
+    margin:30px auto;
+    line-height: 2;
 }
 
 
@@ -65,6 +71,13 @@ p{
     size: 2.5rem;
 }
 
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:#023233;
+}
+
 .skill-row{
 
     width:50%;
@@ -88,7 +101,6 @@ p{
 
 
     
-
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -96,17 +108,14 @@ p{
     background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
     background-image: -o-linear-gradient(top, #11cdd4, #11999e);
     background-image: linear-gradient(to bottom, #11cdd4, #11999e);
-    -webkit-border-radius: 8;
-    -moz-border-radius: 8;
-    border-radius: 8px;
-    font-family: Arial;
+    -webkit-border-radius: 31;
+    -moz-border-radius: 31;
+    border-radius: 31px;
+    font-family: 'Roboto', sans-serif;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    margin-bottom: 30px;
-    margin-top: 20px;
-    
   }
   
   .btn:hover {
@@ -124,6 +133,8 @@ p{
     background-color: #66BFBF;
     padding-bottom: 30px;
     padding-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    color:#11999E;
   }
 
   #lp{
@@ -134,3 +145,10 @@ p{
 
     margin-bottom: 30px;
   }
+
+  .bottom-container .footer-link{
+
+    padding:20px;
+
+  }
+  
