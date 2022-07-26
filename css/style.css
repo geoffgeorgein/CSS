@@ -3,6 +3,7 @@ body{
     
     margin: 0px;
     text-align: center;
+    overflow: hidden;
     
     
 }
@@ -47,7 +48,7 @@ h1{
 }
 h2{
     margin:0px auto;
-    width:30%;
+    width:50%;
     color: #66BFBF;
     
     font-family: 'Roboto', sans-serif;
@@ -206,4 +207,17 @@ a:hover{
     padding:20px;
 
   }
+
+  /* TYped
+   */
   
+   .multitext{
+    display:inline;
+   }
+
+   .typed-cursor{
+    font-size: 40px;
+    opacity: 2;
+    color:#11999E;
+    
+}
