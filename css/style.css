@@ -3,9 +3,13 @@ body{
     
     margin: 0px;
     text-align: center;
-    overflow: hidden;
     
-    
+ 
+}
+
+.container-fluid{
+
+  padding:1% 4% 7%;
 }
 
 .top-container{
@@ -16,6 +20,12 @@ body{
     font-family:Helvetica ;
     padding-bottom: 10px;
     
+}
+.navbar-brand{
+
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 
@@ -29,6 +39,11 @@ p{
     width:40%;
     margin:30px auto;
     line-height: 2;
+    
+}
+
+h1,h2,h3,h4,h5,p {
+  text-align: center;
 }
 
 
@@ -36,8 +51,9 @@ p{
         
 
 h1{
-    margin-top: 40px;
-    padding-top: 30px;
+    
+    
+    padding-top: 10px;
     margin:0px auto 20px auto;
     
     font-size: 4.62rem;
@@ -74,6 +90,7 @@ p{
 }
 
 a{
+    
     text-decoration: none;
 }
 a:hover{
@@ -202,9 +219,21 @@ a:hover{
     margin-bottom: 30px;
   }
 
+  .contact-me{
+    text-align: center;
+    font-family: "Ubuntu";
+  }
+
+  .bottom-container{
+    text-align: center;
+  }
+
   .bottom-container .footer-link{
 
     padding:20px;
+    text-decoration:none;
+    color:#023233
+   
 
   }
 
